@@ -427,7 +427,7 @@ function CalculadoraExtra() {
                 onClick={() => excluirItem(index)}
                 sx={{ marginTop: 1 }}
               >
-                Excluir
+                Excluir Item
               </Button>
             </Paper>
           ))}
