@@ -286,7 +286,7 @@ function CalculadoraExtra() {
 
   return (
     <Container maxWidth="sm" sx={{ mt: 4, backgroundColor: "white" }}>
-      <Typography variant="h5" gutterBottom sx={{ textAlign: "center" }}>
+      <Typography variant="h5" gutterBottom sx={{ textAlign: "center", textShadow: "1px 2px 4px rgba(0, 0, 0, 0.5)" }}>
         Calculadora de Horas Extras
       </Typography>
 
